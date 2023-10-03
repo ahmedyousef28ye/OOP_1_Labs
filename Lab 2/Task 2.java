@@ -1,4 +1,4 @@
-Task 2
+//Task 2
 import java.util.Scanner;
 public class IAU_TEST {
     public static void main(String[] args) {
